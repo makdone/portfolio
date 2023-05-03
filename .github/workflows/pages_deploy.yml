@@ -17,16 +17,16 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Checkout loconotion
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: leoncvlt/loconotion
           path: loconotion
 
       - name: Checkout this repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: pages_repo
 
@@ -49,7 +49,7 @@ jobs:
         working-directory: loconotion
 
       - name: Deploy to Pages
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+        uses: JamesIves/github-pages-deploy-action@4.4.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
