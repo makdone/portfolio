@@ -1,8 +1,5 @@
 # Action-NotionSite
 
-# English Version
-by [TechCrunch](https://www.deepl.com/)
-
 - Use Github Actions to run loconotion regularly to crawl Notion pages and generate pure static html pages.
 - Push the generated html pages to the GitHub repository and generate a static web site with GitHub Pages.
 - Optional. Finally, reverse proxy with Cloudflare Workers to implement a separate domain site.
