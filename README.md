@@ -10,6 +10,7 @@
 1. Register and create a page of your choice in Notion, click share to get the public link e.g. `https://www.notion.so/Loconotion-Example-Page-03c40xxxxxxxxxxxxxxxx9a8950ef`
 2. To sign up for GitHub, click the **use this template** button on this project page to create your new project. We recommend using something like **blog** for the name of your new repository. (You can give this project a Star when you're done creating it)
 3. In the GitHub project you just created, click **Settings** and then** Secrets** to create a new profile. Detailed profile of the [original project](https://github.com/leoncvlt/loconotion#advanced-usage)
+
 3.1 Repo -> Settings -> Actions -> General, Set: Read and write permissions, Check: Allow Github Actions to create and approve pull requests
 <details>
 <summary>Example configuration file</summary>
