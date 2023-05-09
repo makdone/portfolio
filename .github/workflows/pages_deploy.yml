@@ -37,7 +37,7 @@ jobs:
       - name: Configuration File
         run: |
           cat >  ${GITHUB_WORKSPACE}/loconotion/example/example_site.toml  << EOF
-          ${{ variable.SITE_CONFIG }}
+          ${{ secrets.SITE_CONFIG }}
           EOF
 
       - name: Run Loconotion
