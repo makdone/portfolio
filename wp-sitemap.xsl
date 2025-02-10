@@ -63,6 +63,28 @@
 					a:hover {
 						text-decoration: none;
 					}
+		/* Style rules added by XML Sitemaps Manager */
+
+		#sitemap {
+			max-width: unset;
+		}
+
+		#sitemap__header h1 + p::after {
+			content: " Managed and extended by XML Sitemaps Manager to improve performance and search engine visibility.";
+		}
+
+		#sitemap__table {
+			border-width: 0 0 1px 0;
+		}
+
+		#sitemap__table tr th {
+			background: #444;
+			color: white;
+		}
+
+		#sitemap__table tr td.lastmod {
+			white-space: nowrap;
+		}
 
 				</style>
 			</head>
