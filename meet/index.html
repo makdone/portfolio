@@ -124,7 +124,7 @@
 	                "@id": "https://danilamak.com/#/schema/person/image/"
 	            },
 	            "sameAs": [
-	                "https://danilamak.com",
+	                "https://danilamak.com/",
 	                "https://www.linkedin.com/in/danilamak/"
 	            ]
 	        }
@@ -190,6 +190,9 @@
 			width: auto;
 			z-index: 100000;
 		}
+</style>
+<style id="dominant-color-styles-inline-css">
+img[data-dominant-color]:not(.has-transparency) { background-color: var(--dominant-color); }
 </style>
 <style id="block-visibility-screen-size-styles-inline-css">
 /* Large screens (desktops, 992px and up) */
@@ -273,7 +276,11 @@
 <!-- Global Header Scripts by Add Custom Codes -->
 <script defer src="https://cloud.umami.is/script.js" data-website-id="54b3dadb-8939-43fe-9f6d-1690ba95a260"></script>
 <!-- End - Global Header Scripts by Add Custom Codes -->
-<meta name="generator" content="performance-lab 3.9.0; plugins: ">
+<meta name="generator" content="auto-sizes 1.4.0">
+<meta name="generator" content="dominant-color-images 1.2.0">
+<meta name="generator" content="performance-lab 3.9.0; plugins: auto-sizes, dominant-color-images, speculation-rules, webp-uploads">
+<meta name="generator" content="webp-uploads 2.5.1">
+<meta name="generator" content="speculation-rules 1.5.0">
 <style class="wp-fonts-local">
 @font-face{font-family:Inter;font-style:normal;font-weight:500;font-display:fallback;src:url('https://danilamak.com/wp-content/uploads/fonts/3bf763ac01ac1d8fc31e94371e0cd693_26568.woff2') format('woff2');}
 @font-face{font-family:"Inter Display";font-style:normal;font-weight:500;font-display:fallback;src:url('https://danilamak.com/wp-content/uploads/fonts/interdisplay-medium.woff2') format('woff2');}
@@ -309,7 +316,7 @@
 </header>
 
 
-<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-4 wp-block-group-is-layout-constrained" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><h2 style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80);" class="alignwide wp-block-post-title has-x-large-font-size">Schedule a meeting with me</h2>
+<div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-container-core-group-is-layout-4 wp-block-group-is-layout-constrained" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><h2 style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80);" class="alignwide wp-block-post-title has-x-large-font-size">Schedule a meeting with me</h2>
 
 <div class="entry-content alignwide wp-block-post-content is-layout-flow wp-block-post-content-is-layout-flow">
 <p class="has-custom-grey-color has-text-color has-link-color eplus-wrapper wp-elements-e83bbb88a84dad7f37d023e0adc64e97" style="text-transform:lowercase">Available time displayed in your device&rsquo;s time zone</p>
@@ -355,11 +362,10 @@ Cal("init", "meet", {origin:"https://cal.com"});
 </div>
 </div>
 </footer></div>
-		<!-- Integrate Umami -->
-		<script async defer src="https://cloud.umami.is/script.js%20data-website-id=54b3dadb-8939-43fe-9f6d-1690ba95a260" data-website-id="54b3dadb-8939-43fe-9f6d-1690ba95a260" data-do-not-track="true">
-		</script>
-		<!-- /Integrate Umami -->
-		<script id="wp-block-template-skip-link-js-after">
+<script type="speculationrules">
+{"prerender":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/portfolio\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prerender"}}]},"eagerness":"moderate"}]}
+</script>
+<script id="wp-block-template-skip-link-js-after">
 	( function() {
 		var skipLinkTarget = document.querySelector( 'main' ),
 			sibling,

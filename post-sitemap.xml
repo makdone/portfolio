@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://danilamak.com/all-materials/</loc>
-		<lastmod>2025-02-17T14:42:40+00:00</lastmod>
+		<lastmod>2025-03-04T16:40:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://danilamak.com/design-principles/</loc>
@@ -12,120 +12,32 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://danilamak.com/login-flow/</loc>
-		<lastmod>2025-02-17T13:51:42+00:00</lastmod>
+		<loc>https://danilamak.com/4-visual-influences-that-shaped-me/</loc>
+		<lastmod>2025-02-17T14:42:40+00:00</lastmod>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/login-flow.svg</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/2025/02/cover.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/500-error.png</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/windows-xp.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/sketch-1.png</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/mac-os-leopard.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/sketch-2.png</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/ubuntu-5.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/autorisation.svg</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/elementary-os.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/autorisation-1.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/message.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/autorisation-7.svg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/frontend-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/autorisation-7.svg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/autorisation-4.svg-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/status-password-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/status-password-1-scaled.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://danilamak.com/graphics/</loc>
-		<lastmod>2025-02-17T13:59:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/2025/02/graph-1.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/footwork-big-bounce.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/footwork-china.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/footwork-nii.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/new-tasks.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/soft-cap.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/ai-revolution.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/ai-blockchain.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/inde_theater-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/article-about-foreigners-2-1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/article-about-foreigners-4.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/article-about-foreigners-3.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/article-about-foreigners.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/illustrations-andrey-zorin-3.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/illustrations-andrey-zorin.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/illustrations-andrey-zorin-2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/illustrations-andrey-zorin-1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/clear-and-simple-2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/clear-and-simple-3.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/clear-and-simple.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/inde_transport.svg</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/el-lisitzky.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://danilamak.com/waterius/</loc>
-		<lastmod>2025-02-17T14:24:35+00:00</lastmod>
+		<lastmod>2025-02-27T14:33:34+00:00</lastmod>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/smart-home.svg</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/waterius.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://danilamak.com/wp-content/uploads/waterius.jpg?_t=1739053518</image:loc>
@@ -204,25 +116,113 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://danilamak.com/4-visual-influences-that-shaped-me/</loc>
-		<lastmod>2025-02-17T14:42:40+00:00</lastmod>
+		<loc>https://danilamak.com/login-flow/</loc>
+		<lastmod>2025-03-03T10:19:57+00:00</lastmod>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/2025/02/cover.svg</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/login-flow.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/windows-xp.webp</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/500-error.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/mac-os-leopard.webp</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/sketch-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/ubuntu-5.webp</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/sketch-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/elementary-os.webp</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/autorisation.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://danilamak.com/wp-content/uploads/el-lisitzky.webp</image:loc>
+			<image:loc>https://danilamak.com/wp-content/uploads/autorisation-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/message.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/autorisation-7.svg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/frontend-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/autorisation-7.svg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/autorisation-4.svg-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/status-password-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/status-password-1-scaled.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://danilamak.com/graphics/</loc>
+		<lastmod>2025-03-04T16:40:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/2025/02/graph-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/footwork-big-bounce.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/footwork-china.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/footwork-nii.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/new-tasks.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/soft-cap.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/ai-revolution.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/ai-blockchain.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/inde_theater-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/article-about-foreigners-2-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/article-about-foreigners-4.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/article-about-foreigners-3.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/article-about-foreigners.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/illustrations-andrey-zorin-3.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/illustrations-andrey-zorin.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/illustrations-andrey-zorin-2.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/illustrations-andrey-zorin-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/clear-and-simple-2.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/clear-and-simple-3.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/clear-and-simple.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://danilamak.com/wp-content/uploads/inde_transport.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>

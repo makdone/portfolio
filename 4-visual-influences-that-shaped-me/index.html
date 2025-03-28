@@ -163,7 +163,7 @@
 	                "@id": "https://danilamak.com/#/schema/person/image/"
 	            },
 	            "sameAs": [
-	                "https://danilamak.com",
+	                "https://danilamak.com/",
 	                "https://www.linkedin.com/in/danilamak/"
 	            ]
 	        }
@@ -218,7 +218,7 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 :root :where(.wp-block-group){padding-right: 0;padding-left: 0;}
 </style>
 <style id="core-block-supports-inline-css">
-.wp-elements-ff8e343b1aa0d32587779bee29eae749 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--black);}.wp-elements-ff8e343b1aa0d32587779bee29eae749 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--black);}.wp-container-core-group-is-layout-1{flex-wrap:nowrap;justify-content:flex-end;}.wp-container-core-group-is-layout-2{justify-content:space-between;}.wp-container-core-group-is-layout-3 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1296px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-3 > .alignwide{max-width:1296px;}.wp-container-core-group-is-layout-3 .alignfull{max-width:none;}.wp-container-core-group-is-layout-3 > .alignfull{margin-right:calc(var(--wp--preset--spacing--30) * -1);margin-left:calc(var(--wp--preset--spacing--30) * -1);}.wp-elements-4300fac47efd08df59c1c043c75342ad a:where(:not(.wp-element-button)){color:var(--wp--preset--color--custom-grey);}.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;}.wp-elements-095181f1588e8e0f65925dd750c83a98 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--custom-grey);}.wp-container-core-group-is-layout-6 > .alignfull{margin-right:calc(var(--wp--preset--spacing--30) * -1);margin-left:calc(var(--wp--preset--spacing--30) * -1);}.wp-container-core-group-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-6 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-7{flex-wrap:nowrap;justify-content:flex-end;}.wp-container-core-group-is-layout-8{justify-content:space-between;}.wp-container-core-group-is-layout-9 > .alignfull{margin-right:calc(var(--wp--preset--spacing--30) * -1);margin-left:calc(var(--wp--preset--spacing--30) * -1);}
+.wp-elements-ff8e343b1aa0d32587779bee29eae749 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--black);}.wp-elements-ff8e343b1aa0d32587779bee29eae749 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--black);}.wp-container-core-group-is-layout-1{flex-wrap:nowrap;justify-content:flex-end;}.wp-container-core-group-is-layout-2{justify-content:space-between;}.wp-container-core-group-is-layout-3 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1296px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-3 > .alignwide{max-width:1296px;}.wp-container-core-group-is-layout-3 .alignfull{max-width:none;}.wp-container-core-group-is-layout-3 > .alignfull{margin-right:calc(var(--wp--preset--spacing--30) * -1);margin-left:calc(var(--wp--preset--spacing--30) * -1);}.wp-elements-4300fac47efd08df59c1c043c75342ad a:where(:not(.wp-element-button)){color:var(--wp--preset--color--custom-grey);}.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;}.wp-elements-095181f1588e8e0f65925dd750c83a98 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--custom-grey);}.wp-container-core-group-is-layout-6 > .alignfull{margin-right:calc(var(--wp--preset--spacing--30) * -1);margin-left:calc(var(--wp--preset--spacing--30) * -1);}.wp-container-core-group-is-layout-7{flex-wrap:nowrap;justify-content:flex-end;}.wp-container-core-group-is-layout-8{justify-content:space-between;}.wp-container-core-group-is-layout-9 > .alignfull{margin-right:calc(var(--wp--preset--spacing--30) * -1);margin-left:calc(var(--wp--preset--spacing--30) * -1);}
 </style>
 <style id="wp-block-template-skip-link-inline-css">
 
@@ -251,6 +251,9 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 			width: auto;
 			z-index: 100000;
 		}
+</style>
+<style id="dominant-color-styles-inline-css">
+img[data-dominant-color]:not(.has-transparency) { background-color: var(--dominant-color); }
 </style>
 <style id="block-visibility-screen-size-styles-inline-css">
 /* Large screens (desktops, 992px and up) */
@@ -334,7 +337,11 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 <!-- Global Header Scripts by Add Custom Codes -->
 <script defer src="https://cloud.umami.is/script.js" data-website-id="54b3dadb-8939-43fe-9f6d-1690ba95a260"></script>
 <!-- End - Global Header Scripts by Add Custom Codes -->
-<meta name="generator" content="performance-lab 3.9.0; plugins: ">
+<meta name="generator" content="auto-sizes 1.4.0">
+<meta name="generator" content="dominant-color-images 1.2.0">
+<meta name="generator" content="performance-lab 3.9.0; plugins: auto-sizes, dominant-color-images, speculation-rules, webp-uploads">
+<meta name="generator" content="webp-uploads 2.5.1">
+<meta name="generator" content="speculation-rules 1.5.0">
 <style class="wp-fonts-local">
 @font-face{font-family:Inter;font-style:normal;font-weight:500;font-display:fallback;src:url('https://danilamak.com/wp-content/uploads/fonts/3bf763ac01ac1d8fc31e94371e0cd693_26568.woff2') format('woff2');}
 @font-face{font-family:"Inter Display";font-style:normal;font-weight:500;font-display:fallback;src:url('https://danilamak.com/wp-content/uploads/fonts/interdisplay-medium.woff2') format('woff2');}
@@ -370,7 +377,7 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 </header>
 
 
-<div class="wp-block-group alignwide has-global-padding is-layout-constrained wp-container-core-group-is-layout-6 wp-block-group-is-layout-constrained" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+<div class="wp-block-group alignfull has-global-padding is-layout-constrained wp-container-core-group-is-layout-6 wp-block-group-is-layout-constrained" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
 <div class="wp-block-columns alignwide are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex" style="padding-top:var(--wp--preset--spacing--80);padding-right:0;padding-bottom:var(--wp--preset--spacing--60)">
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%"><h2 class="wp-block-post-title">4 Visual Influences that shaped me</h2>
 
@@ -407,13 +414,13 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 
 <div class="wp-block-group alignwide eplus-wrapper has-global-padding is-layout-constrained wp-block-group-is-layout-constrained"><div class="wp-block-columns alignwide eplus-wrapper is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex eplus-styles-uid-464452">
 <div class="wp-block-column eplus-wrapper is-layout-flow wp-block-column-is-layout-flow">
-<figure class=" wp-block-image size-large eplus-wrapper"><img fetchpriority="high" decoding="async" width="1200" height="778" src="https://danilamak.com/wp-content/uploads/windows-xp-1200x778.webp" alt="" class="wp-image-260" srcset="https://danilamak.com/wp-content/uploads/windows-xp-1200x778.webp 1200w, https://danilamak.com/wp-content/uploads/windows-xp-600x389.webp 600w, https://danilamak.com/wp-content/uploads/windows-xp-300x194.webp 300w, https://danilamak.com/wp-content/uploads/windows-xp-768x498.webp 768w, https://danilamak.com/wp-content/uploads/windows-xp.webp 1324w" sizes="(max-width: 1200px) 100vw, 1200px"><figcaption class="wp-element-caption">Windows XP</figcaption></figure>
+<figure class=" wp-block-image size-large eplus-wrapper"><img fetchpriority="high" decoding="async" width="1200" height="778" sizes="(max-width: 746px) 100vw, 746px" src="https://danilamak.com/wp-content/uploads/windows-xp-1200x778.webp" alt="" class="wp-image-260" srcset="https://danilamak.com/wp-content/uploads/windows-xp-1200x778.webp 1200w, https://danilamak.com/wp-content/uploads/windows-xp-600x389.webp 600w, https://danilamak.com/wp-content/uploads/windows-xp-300x194.webp 300w, https://danilamak.com/wp-content/uploads/windows-xp-768x498.webp 768w, https://danilamak.com/wp-content/uploads/windows-xp.webp 1324w"><figcaption class="wp-element-caption">Windows XP</figcaption></figure>
 </div>
 
 
 
 <div class="wp-block-column eplus-wrapper is-layout-flow wp-block-column-is-layout-flow">
-<figure class=" wp-block-image size-full eplus-wrapper"><img decoding="async" width="640" height="400" src="https://danilamak.com/wp-content/uploads/mac-os-leopard.webp" alt="" class="wp-image-266" srcset="https://danilamak.com/wp-content/uploads/mac-os-leopard.webp 640w, https://danilamak.com/wp-content/uploads/mac-os-leopard-600x375.webp 600w, https://danilamak.com/wp-content/uploads/mac-os-leopard-300x188.webp 300w" sizes="(max-width: 640px) 100vw, 640px"><figcaption class="wp-element-caption">Mac OS Leopard</figcaption></figure>
+<figure class=" wp-block-image size-full eplus-wrapper"><img decoding="async" width="640" height="400" sizes="(max-width: 640px) 100vw, 640px" src="https://danilamak.com/wp-content/uploads/mac-os-leopard.webp" alt="" class="wp-image-266" srcset="https://danilamak.com/wp-content/uploads/mac-os-leopard.webp 640w, https://danilamak.com/wp-content/uploads/mac-os-leopard-600x375.webp 600w, https://danilamak.com/wp-content/uploads/mac-os-leopard-300x188.webp 300w"><figcaption class="wp-element-caption">Mac OS Leopard</figcaption></figure>
 </div>
 </div></div>
 
@@ -425,13 +432,13 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 
 <div class="wp-block-group alignwide eplus-wrapper has-global-padding is-layout-constrained wp-block-group-is-layout-constrained"><div class="wp-block-columns alignwide eplus-wrapper is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex eplus-styles-uid-1d63f1">
 <div class="wp-block-column eplus-wrapper is-layout-flow wp-block-column-is-layout-flow">
-<figure class=" wp-block-image size-full eplus-wrapper"><img loading="lazy" decoding="async" width="800" height="600" src="https://danilamak.com/wp-content/uploads/ubuntu-5.webp" alt="" class="wp-image-268" srcset="https://danilamak.com/wp-content/uploads/ubuntu-5.webp 800w, https://danilamak.com/wp-content/uploads/ubuntu-5-600x450.webp 600w, https://danilamak.com/wp-content/uploads/ubuntu-5-300x225.webp 300w, https://danilamak.com/wp-content/uploads/ubuntu-5-768x576.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px"><figcaption class="wp-element-caption">Ubuntu 5</figcaption></figure>
+<figure class=" wp-block-image size-full eplus-wrapper"><img loading="lazy" decoding="async" width="800" height="600" sizes="auto, (max-width: 746px) 100vw, 746px" src="https://danilamak.com/wp-content/uploads/ubuntu-5.webp" alt="" class="wp-image-268" srcset="https://danilamak.com/wp-content/uploads/ubuntu-5.webp 800w, https://danilamak.com/wp-content/uploads/ubuntu-5-600x450.webp 600w, https://danilamak.com/wp-content/uploads/ubuntu-5-300x225.webp 300w, https://danilamak.com/wp-content/uploads/ubuntu-5-768x576.webp 768w"><figcaption class="wp-element-caption">Ubuntu 5</figcaption></figure>
 </div>
 
 
 
 <div class="wp-block-column eplus-wrapper is-layout-flow wp-block-column-is-layout-flow">
-<figure class=" wp-block-image size-full is-resized eplus-wrapper"><img loading="lazy" decoding="async" width="500" height="375" src="https://danilamak.com/wp-content/uploads/elementary-os.webp" alt="" class="wp-image-269" style="width:570px;height:auto" srcset="https://danilamak.com/wp-content/uploads/elementary-os.webp 500w, https://danilamak.com/wp-content/uploads/elementary-os-300x225.webp 300w" sizes="auto, (max-width: 500px) 100vw, 500px"><figcaption class="wp-element-caption">Elementary OS</figcaption></figure>
+<figure class=" wp-block-image size-full is-resized eplus-wrapper"><img loading="lazy" decoding="async" width="500" height="375" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://danilamak.com/wp-content/uploads/elementary-os.webp" alt="" class="wp-image-269" style="width:570px;height:auto" srcset="https://danilamak.com/wp-content/uploads/elementary-os.webp 500w, https://danilamak.com/wp-content/uploads/elementary-os-300x225.webp 300w"><figcaption class="wp-element-caption">Elementary OS</figcaption></figure>
 </div>
 </div></div>
 
@@ -497,7 +504,7 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 
 
 
-<figure class=" wp-block-image size-large eplus-wrapper"><img loading="lazy" decoding="async" width="1200" height="1692" src="https://danilamak.com/wp-content/uploads/el-lisitzky-1200x1692.webp" alt="" class="wp-image-283" srcset="https://danilamak.com/wp-content/uploads/el-lisitzky-1200x1692.webp 1200w, https://danilamak.com/wp-content/uploads/el-lisitzky-600x846.webp 600w, https://danilamak.com/wp-content/uploads/el-lisitzky-300x423.webp 300w, https://danilamak.com/wp-content/uploads/el-lisitzky-768x1083.webp 768w, https://danilamak.com/wp-content/uploads/el-lisitzky-1089x1536.webp 1089w, https://danilamak.com/wp-content/uploads/el-lisitzky-1452x2048.webp 1452w, https://danilamak.com/wp-content/uploads/el-lisitzky.webp 1745w" sizes="auto, (max-width: 1200px) 100vw, 1200px"></figure>
+<figure class=" wp-block-image size-large eplus-wrapper"><img loading="lazy" decoding="async" width="1200" height="1692" sizes="auto, (max-width: 746px) 100vw, 746px" src="https://danilamak.com/wp-content/uploads/el-lisitzky-1200x1692.webp" alt="" class="wp-image-283" srcset="https://danilamak.com/wp-content/uploads/el-lisitzky-1200x1692.webp 1200w, https://danilamak.com/wp-content/uploads/el-lisitzky-600x846.webp 600w, https://danilamak.com/wp-content/uploads/el-lisitzky-300x423.webp 300w, https://danilamak.com/wp-content/uploads/el-lisitzky-768x1083.webp 768w, https://danilamak.com/wp-content/uploads/el-lisitzky-1089x1536.webp 1089w, https://danilamak.com/wp-content/uploads/el-lisitzky-1452x2048.webp 1452w, https://danilamak.com/wp-content/uploads/el-lisitzky.webp 1745w"></figure>
 
 
 
@@ -538,11 +545,10 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 </div>
 </div>
 </footer></div>
-		<!-- Integrate Umami -->
-		<script async defer src="https://cloud.umami.is/script.js%20data-website-id=54b3dadb-8939-43fe-9f6d-1690ba95a260" data-website-id="54b3dadb-8939-43fe-9f6d-1690ba95a260" data-do-not-track="true">
-		</script>
-		<!-- /Integrate Umami -->
-		<script id="wp-block-template-skip-link-js-after">
+<script type="speculationrules">
+{"prerender":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/portfolio\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prerender"}}]},"eagerness":"moderate"}]}
+</script>
+<script id="wp-block-template-skip-link-js-after">
 	( function() {
 		var skipLinkTarget = document.querySelector( 'main' ),
 			sibling,
