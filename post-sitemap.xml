@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://danilamak.com/all-materials/</loc>
-		<lastmod>2025-04-29T15:07:46+00:00</lastmod>
+		<lastmod>2025-05-07T17:18:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://danilamak.com/design-principles/</loc>
@@ -227,7 +227,7 @@
 	</url>
 	<url>
 		<loc>https://danilamak.com/synthesized/</loc>
-		<lastmod>2025-04-29T15:07:46+00:00</lastmod>
+		<lastmod>2025-05-07T17:18:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://danilamak.com/wp-content/uploads/synthesized.webp</image:loc>
 		</image:image>
